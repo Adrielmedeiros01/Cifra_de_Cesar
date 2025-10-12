@@ -1,8 +1,9 @@
 
-# pip install pyinstaller
-# sudo apt install python3-tk -y
-# pip install --upgrade customtkinter
-# pyinstaller --onefile --noconsole --hidden-import=tkinter --hidden-import=customtkinter index.py
+# Linux:
+    # pip install pyinstaller
+    # sudo apt install python3-tk -y
+    # pip install --upgrade customtkinter
+    # pyinstaller --onefile --noconsole --hidden-import=tkinter --hidden-import=customtkinter index.py
 
 
 
