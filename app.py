@@ -7,7 +7,6 @@
 
 
 
-
 import customtkinter as tk
 from tkinter import *
 
@@ -46,6 +45,7 @@ valorVar = tk.StringVar()
 pulosVar = tk.StringVar()
 
 root.geometry('600x350')
+root.title("CriptoPy")
 root.resizable(width=False, height=False)
 tk.set_appearance_mode("system") 
 
